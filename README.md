@@ -1,2 +1,3 @@
 # Tradexa
 Assignment
+Akash Duttachowdhury
